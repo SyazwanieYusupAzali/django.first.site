@@ -1,1 +1,2 @@
-print ("hello wanie")
+print ("HELLO")
+print ("Welcome to WANIE profile")
